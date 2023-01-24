@@ -16,15 +16,15 @@
 <br/>
 
 Webex API:
-- Useful webhook links:
-	https://developer.webex.com/docs/api/v1/webhooks
-	https://developer.webex.com/docs/api/v1/webhooks/list-webhooks
-	https://developer.webex.com/docs/api/v1/webhooks/create-a-webhook
-	https://developer.webex.com/docs/api/v1/webhooks/delete-a-webhook
-- Useful message links:
+- Useful webhook links: <br/>
+	https://developer.webex.com/docs/api/v1/webhooks <br/>
+	https://developer.webex.com/docs/api/v1/webhooks/list-webhooks <br/>
+	https://developer.webex.com/docs/api/v1/webhooks/create-a-webhook <br/>
+	https://developer.webex.com/docs/api/v1/webhooks/delete-a-webhook <br/>
+- Useful message links: <br/>
 	https://developer.webex.com/docs/api/v1/messages/list-messages
 
 Trello:
-- Useful API links:
-	https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/
+- Useful API links: <br/>
+	https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/ <br/>
 	https://www.postman.com/
