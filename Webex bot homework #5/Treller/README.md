@@ -4,7 +4,7 @@
 1. Create a new bot from https://developer.webex.com/my-apps
 2. Move configuration `ngrok.yml` inside `%USERPROFILE%\.ngrok2\` (this will set the region of ngrok)
 3. Set all the necessary data (API tokens, bot name...) in the `config.py` file
-4. Download [ngrok](https://ngrok.com/download), move it to the folder that contains this repository and run it with `Run ngrok.bat`
+4. Download [ngrok](https://ngrok.com/download), move it to the `../ngrok` folder and run it with `Run ngrok.bat`
 5. Setup the webhook:
 	- Copy `"Forwarding"` address in `"targetUrl"` at https://developer.webex.com/docs/api/v1/webhooks/create-a-webhook <br/>
 	(If you paste that address into your browser you will have information about the requests that come through ngrok)
